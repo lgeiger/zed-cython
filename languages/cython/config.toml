@@ -1,0 +1,4 @@
+name = "Cython"
+grammar = "cython"
+path_suffixes = ["pyx", "pxd"]
+line_comments = ["# "]

@@ -1,0 +1,11 @@
+id = "cython"
+name = "Cython"
+version = "0.1.0"
+schema_version = 1
+authors = ["Lukas Geiger <lukas.geiger94@gmail.com>"]
+description = "Cython language support for Zed"
+repository = "https://github.com/lgeiger/zed-cython"
+
+[grammars.cython]
+repository = "https://github.com/b0o/tree-sitter-cython"
+commit = "0fe384913becb968bcaaf02c5d33d3a1ff8bd615"
