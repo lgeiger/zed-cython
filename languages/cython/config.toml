@@ -1,4 +1,4 @@
 name = "Cython"
 grammar = "cython"
-path_suffixes = ["pyx", "pxd"]
+path_suffixes = ["pyx", "pxd", "pxi"]
 line_comments = ["# "]
