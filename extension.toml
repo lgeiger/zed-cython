@@ -8,4 +8,4 @@ repository = "https://github.com/lgeiger/zed-cython"
 
 [grammars.cython]
 repository = "https://github.com/b0o/tree-sitter-cython"
-commit = "0fe384913becb968bcaaf02c5d33d3a1ff8bd615"
+commit = "5f5468af68899b1013eef19ffe154e3f9c7a5d4a"
